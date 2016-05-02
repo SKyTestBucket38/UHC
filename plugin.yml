@@ -1,0 +1,16 @@
+name: UHCDoDo
+main: KaitoDoDo\UHC\UHC
+author: KaitoDoDo
+version: 2.1.0
+api: 
+- 1.0.0
+- 1.1.0
+- 2.0.0
+
+commands:
+    uhc:
+        usage: /uhc <make>
+        description: UHC-Commands
+    uhcstart:
+        usage: /uhcstart
+        description: Force-UHC-start
